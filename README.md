@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaushik Kumar  
 
-🎓 **B.Tech in Information Science & Engineering | 5th Semester**  
+🎓 **B.E. in Information Science & Engineering | 6th Semester**  
 💻 **Aspiring Software Engineer | AI & Full Stack Developer | IoT Enthusiast**  
 
 I am a passionate engineering student who enjoys building intelligent systems that solve real-world problems. My interests include Artificial Intelligence, Full Stack Development, Embedded Systems, and Sustainability-focused technologies.
