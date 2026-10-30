@@ -127,8 +127,9 @@ Currently, I'm exploring software engineering, distributed systems, AI-driven ap
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaushikbargaway&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikbargaway&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=kaushikbargaway&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaushikbargaway&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
