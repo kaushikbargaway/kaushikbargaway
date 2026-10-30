@@ -144,7 +144,7 @@ I'm always interested in connecting with developers, engineers, and technology e
 
 <p align="left">
   <a href="https://kaushikkumar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Website-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/kaushikbargaway">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
